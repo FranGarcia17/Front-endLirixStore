@@ -1,0 +1,8 @@
+.container-buttons {
+    width: 100%;
+    height: auto;
+    background-color: #171717;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
