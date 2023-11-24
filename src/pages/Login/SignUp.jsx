@@ -42,12 +42,12 @@ function SignUp() {
 
   return (
     <div className="grid grid-cols-1 sm:grid-cols-2 h-screen w-full overflow-hidden">
-      <div className="bg-black flex flex-row">
-        <img
+      <div className="bg-black w-full h-screen flex flex-row">
+        {/* <img
           className="w-auto h-auto ml-24"
           src={"/src/assets/Lirix Store Banner Login.png"}
           alt=""
-        />
+        /> */}
       </div>
 
       <div className="bg-[#171717] flex flex-col justify-center">

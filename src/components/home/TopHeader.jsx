@@ -57,11 +57,11 @@ function TopHeader() {
       <div className="bg-black fixed top-0 w-full z-50">
         <Navbar className="bg-[#171717]" fluid rounded>
           <Navbar.Brand className="w-48">
-            <img
+            {/* <img
               src="/public/assets/LirixICO3.png"
               className="mr-3 sm:h-9 bg-[#202020] w-12"
               alt="Flowbite React Logo"
-            />
+            /> */}
             <span className="self-center whitespace-nowrap text-xl font-semibold text-white">
               <p>LIRIX STORE</p>
             </span>

@@ -99,12 +99,12 @@ function Signing() {
         </form>
       </div>
 
-      <div className="flex flex-row bg-black">
-        <img
+      <div className="flex w-full h-screen flex-row bg-black">
+        {/* <img
           className="w-auto h-auto ml-24"
           src={"/src/assets/Lirix Store Banner Login.png"}
           alt=""
-        />
+        /> */}
       </div>
     </div>
   );
