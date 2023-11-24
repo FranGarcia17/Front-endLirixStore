@@ -8,12 +8,12 @@ function Banner() {
       <Carousel className="w-3/4 h-96">
         <img
           className="object-contain"
-          src="/src/assets/Fondo Menu K.png"
+          src="/public/assets/Fondo Menu K.png"
           alt="..."
         />
         <img
           className="object-contain"
-          src="/src/assets/Fondo Menu KI.png"
+          src="/publi/assets/Fondo Menu KI.png"
           alt="..."
         />
         <img
@@ -33,7 +33,7 @@ function Banner() {
           src="https://images-eds-ssl.xboxlive.com/image?url=7flt5HU26ZSS3Tgted_TMty0wzqMQYpm03yD7eAPRtQBYO5dMlD18uZxNDuKXvpq6EfCL5ERZrqYueqrdQsxXlGSCTM8lirYXuY68ZzsVqip5gAopXjbGfbgPx8DsEniOqupz00gKh6zTASVYo961cr6Bes2pDrW.PBCQHihNPHOxicLXqVStWLT9UzsQLjO8aq7f6Ve28UhEq2Oo9.p2g--&h=576"
           alt="..."
         />
-        <img src="/src/assets/Fondo Cardinal de DyX.png" alt="..." />
+        <img src="/public/assets/Fondo Cardinal de DyX.png" alt="..." />
       </Carousel>
     </div>
   );

@@ -58,7 +58,7 @@ function TopHeader() {
         <Navbar className="bg-[#171717]" fluid rounded>
           <Navbar.Brand className="w-48">
             <img
-              src="/src/assets/LirixICO3.png"
+              src="/public/assets/LirixICO3.png"
               className="mr-3 sm:h-9 bg-[#202020] w-12"
               alt="Flowbite React Logo"
             />
